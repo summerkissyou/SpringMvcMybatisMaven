@@ -62,7 +62,7 @@
 		<!-- oracle -->
 		<ojdbc14.version>10.2.0.5.0</ojdbc14.version>
 		<!-- mysql -->
-		<mysql.version>5.1.27</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<!-- sqlserver2005 -->
 		<sqlserver.version>1.0.0</sqlserver.version>
 		<!-- jtds for mssql/db2 -->
