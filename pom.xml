@@ -102,7 +102,7 @@
 
 
 		<!-- excel处理工具包 -->
-		<poi.version>3.9</poi.version>
+		<poi.version>4.1.2</poi.version>
 		<easypoi.version>2.1.4</easypoi.version>
 
 		<!-- 文档转换工具包 -->
